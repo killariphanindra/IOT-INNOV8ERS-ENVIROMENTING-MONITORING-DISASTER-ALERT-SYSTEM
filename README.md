@@ -1,0 +1,1 @@
+This project is an IoT-based system designed to monitor environmental conditions in real-time and provide early disaster warnings. By using sensors to track parameters such as temperature, humidity, and air quality, the system alerts users when potential environmental hazards or natural disasters, such as earthquakes or heavy rainfall, are detected.
